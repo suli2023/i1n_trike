@@ -1,1 +1,2 @@
 print("egy")
+print("kacsa")
